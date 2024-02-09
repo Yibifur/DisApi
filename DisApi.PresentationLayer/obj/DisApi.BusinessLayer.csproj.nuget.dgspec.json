@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.PresentationLayer\\DisApi.BusinessLayer.csproj": {}
+    "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.PresentationLayer\\DisApi.BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj": {
+    "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj",
         "projectName": "DisApi.DataAccessLayer",
-        "projectPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Yibif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj"
+              "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj": {
+    "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj",
         "projectName": "DisApi.EntityLayer",
-        "projectPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Yibif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.PresentationLayer\\DisApi.BusinessLayer.csproj": {
+    "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.PresentationLayer\\DisApi.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.PresentationLayer\\DisApi.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.PresentationLayer\\DisApi.BusinessLayer.csproj",
         "projectName": "DisApi.BusinessLayer",
-        "projectPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.PresentationLayer\\DisApi.BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.PresentationLayer\\DisApi.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Yibif\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.PresentationLayer\\obj\\",
+        "outputPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.PresentationLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -201,11 +201,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj"
+              "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj"
               },
-              "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj"
+              "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.EntityLayer\\DisApi.EntityLayer.csproj"
               }
             }
           }

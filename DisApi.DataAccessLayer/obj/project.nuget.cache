@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ybEC+1kJud9mvx1jH6897VqbRwYFdwaYDg951uNNEdVM16BvCoVL6zid9zjZvGngilziTaa9vfFrR1FKLYNexg==",
+  "dgSpecHash": "hawse/LuTsxLPquZ2Aua9aB/XkFS9nRR9UT2MZ82mH1I34J7QVOTWhi7Oj3pOVLc+80EKbUo1CcPasx6sPi3jQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Yibif\\source\\repos\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Yibif\\OneDrive\\Belgeler\\GitHub\\DisApi\\DisApi.DataAccessLayer\\DisApi.DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Yibif\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Yibif\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
