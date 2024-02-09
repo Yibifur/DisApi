@@ -1,0 +1,14 @@
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\bin\Debug\net8.0\DisApi.EntityLayer.deps.json
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\bin\Debug\net8.0\DisApi.EntityLayer.runtimeconfig.json
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\bin\Debug\net8.0\DisApi.EntityLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\bin\Debug\net8.0\DisApi.EntityLayer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\DisApi.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\DisApi.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\DisApi.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\DisApi.EntityLayer.AssemblyInfo.cs
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\DisApi.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\DisApi.EntityLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\refint\DisApi.EntityLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\DisApi.EntityLayer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\DisApi.EntityLayer.genruntimeconfig.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.EntityLayer\obj\Debug\net8.0\ref\DisApi.EntityLayer.dll

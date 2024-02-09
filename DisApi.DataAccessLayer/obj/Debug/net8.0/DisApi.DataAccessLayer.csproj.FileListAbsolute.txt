@@ -1,0 +1,17 @@
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\bin\Debug\net8.0\DisApi.DataAccessLayer.deps.json
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\bin\Debug\net8.0\DisApi.DataAccessLayer.runtimeconfig.json
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\bin\Debug\net8.0\DisApi.DataAccessLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\bin\Debug\net8.0\DisApi.DataAccessLayer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\bin\Debug\net8.0\DisApi.EntityLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\bin\Debug\net8.0\DisApi.EntityLayer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.csproj.CopyComplete
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\refint\DisApi.DataAccessLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\DisApi.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.DataAccessLayer\obj\Debug\net8.0\ref\DisApi.DataAccessLayer.dll

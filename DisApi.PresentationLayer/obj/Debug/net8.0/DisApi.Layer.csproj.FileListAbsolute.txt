@@ -1,0 +1,11 @@
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\bin\Debug\net8.0\DisApi.Layer.deps.json
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\bin\Debug\net8.0\DisApi.Layer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\bin\Debug\net8.0\DisApi.Layer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\obj\Debug\net8.0\DisApi.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\obj\Debug\net8.0\DisApi.Layer.AssemblyInfoInputs.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\obj\Debug\net8.0\DisApi.Layer.AssemblyInfo.cs
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\obj\Debug\net8.0\DisApi.Layer.csproj.CoreCompileInputs.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\obj\Debug\net8.0\DisApi.Layer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\obj\Debug\net8.0\refint\DisApi.Layer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\obj\Debug\net8.0\DisApi.Layer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.PresentationLayer\obj\Debug\net8.0\ref\DisApi.Layer.dll
