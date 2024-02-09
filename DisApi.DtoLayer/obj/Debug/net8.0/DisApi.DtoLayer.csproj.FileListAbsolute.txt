@@ -1,0 +1,15 @@
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\bin\Debug\net8.0\DisApi.DtoLayer.deps.json
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\bin\Debug\net8.0\DisApi.DtoLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\bin\Debug\net8.0\DisApi.DtoLayer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\DisApi.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\DisApi.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\DisApi.DtoLayer.AssemblyInfo.cs
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\DisApi.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\DisApi.DtoLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\refint\DisApi.DtoLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\DisApi.DtoLayer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\ref\DisApi.DtoLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\bin\Debug\net8.0\DisApi.EntityLayer.dll
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\bin\Debug\net8.0\DisApi.EntityLayer.pdb
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\DisApi.DtoLayer.csproj.AssemblyReference.cache
+C:\Users\Yibif\source\repos\DisApi\DisApi.DtoLayer\obj\Debug\net8.0\DisApi.DtoLayer.csproj.CopyComplete
